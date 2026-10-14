@@ -1,5 +1,5 @@
-# devops-freelancing-portfolio
-My DevOps freelancing portfolio featuring AWS, Linux, Docker, CI/CD, Terraform, Ansible, automation, and monitoring projects.
+# devops-portfolio-Avinash_Kuamr_Singh
+My DevOps  portfolio featuring Linux,AWS, Docker, CI/CD, Terraform, Ansible, automation, and monitoring projects.
 
 # 👋 Hi, I'm Avinash Kumar Singh
 
@@ -13,6 +13,11 @@ I am currently focusing on DevOps automation, cloud infrastructure, CI/CD, conta
 
 ## 🛠️ Technical Skills
 
+### Operating Systems
+
+* Linux
+* Red Hat Enterprise Linux
+  
 ### Cloud
 
 * AWS
@@ -34,11 +39,6 @@ I am currently focusing on DevOps automation, cloud infrastructure, CI/CD, conta
 * Terraform
 * Ansible
 
-### Operating Systems
-
-* Linux
-* Red Hat Enterprise Linux
-
 ### Monitoring
 
 * Prometheus
@@ -56,8 +56,8 @@ I am currently focusing on DevOps automation, cloud infrastructure, CI/CD, conta
 
 | Project                    | Technologies           | Status         |
 | -------------------------- | ---------------------- | -------------- |
-| AWS EC2 Deployment         | AWS, Linux             | 🔄 In Progress |
 | Linux Server Automation    | Linux, Bash            | 🔄 In Progress |
+| AWS EC2 Deployment         | AWS, Linux             | 🔄 In Progress |
 | Docker Application         | Docker, Linux          | 🔄 In Progress |
 | CI/CD Pipeline             | GitHub Actions/Jenkins | 🔄 In Progress |
 | AWS Infrastructure as Code | Terraform, AWS         | 🔄 In Progress |
@@ -97,9 +97,9 @@ I can help with:
 
 ---
 
-## 📈 30-Day DevOps Freelancing Challenge
+## 📈 30-Day DevOps Challenge
 
-I am building this portfolio as part of my 30-Day DevOps Freelancing Challenge.
+I am building this portfolio as part of my 30-Day DevOps Challenge.
 
 ### My daily workflow:
 
@@ -122,8 +122,8 @@ The objective is to build practical DevOps projects and become ready for real-wo
 
 ## 📊 Portfolio Progress
 
-* [ ] AWS Project
 * [ ] Linux Automation Project
+* [ ] AWS Project
 * [ ] Docker Project
 * [ ] CI/CD Project
 * [ ] Terraform Project
