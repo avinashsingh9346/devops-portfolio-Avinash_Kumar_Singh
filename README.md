@@ -1,4 +1,4 @@
-# devops-portfolio-Avinash_Kuamr_Singh
+# DevOps-portfolio-Avinash_Kuamr_Singh
 My DevOps  portfolio featuring Linux,AWS, Docker, CI/CD, Terraform, Ansible, automation, and monitoring projects.
 
 # 👋 Hi, I'm Avinash Kumar Singh
