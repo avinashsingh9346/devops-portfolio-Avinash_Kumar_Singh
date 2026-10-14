@@ -1,5 +1,5 @@
 # DevOps-portfolio-Avinash_Kuamr_Singh
-My DevOps  portfolio featuring Linux,AWS, Docker, CI/CD, Terraform, Ansible, automation, and monitoring projects.
+My DevOps  portfolio featuring Linux, AWS, Docker, CI/CD, Terraform, Ansible, automation, and monitoring projects.
 
 # 👋 Hi, I'm Avinash Kumar Singh
 
@@ -135,7 +135,7 @@ The objective is to build practical DevOps projects and become ready for real-wo
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/avinashsingh9346/devops-freelancing-portfolio
+* GitHub: https://github.com/avinashsingh9346/devops-portfolio-Avinash_Kumar_Singh
 * LinkedIn: www.linkedin.com/in/avinash-kumar-singh-8a9494156
 * Email: avinashsingh9346@gmail.com
 
