@@ -1,7 +1,7 @@
-What is Operating system
-An operating system is system software that manages computer hardware, software resources, and provides common services for computer programs  An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software & hardware.
+## What is Operating system?
+An operating system is system software that manages computer hardware, software resources, and provides common services for computer programs An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software & hardware.
 
-What is Linux?
+## What is Linux?
 Linux is an open-source and community-developed operating system / Kernal for computers, servers, mainframes, mobile devices, and embedded devices. It has support on almost every major computer platform including x86, ARM etc. Making it one of the most widely supported operating systems.
 
 The design of Linux is similar to UNIX, but it has evolved to run on a wide variety of hardware from phones to supercomputers. Every Linux-based OS contains the Linux Kernel-which manages hardware resources-and a set of software packages that make up the rest of the operating system.
@@ -9,13 +9,13 @@ The design of Linux is similar to UNIX, but it has evolved to run on a wide vari
 https://github.com/jubalh/awesome-os
 https://github.com/torvalds/linux
 
-Why Linux is popular?
+## Why Linux is popular?
 Linux is different from the rest of the operating systems in many important aspects. Some of them are as follows
 
-	• Free - First, and perhaps most importantly, Linux is free. You do not have to spend any amount to download and use it, unlike windows.
-	• Open Source - Linux is open-source software. The code used to create Linux is free and available to the public to view edit, and-for users with the appropriate skills-to contribute to.
-	• Secure - Once you have Linux installed on your system, there is no need to use an antivirus! Linux is a highly secure system. Moreover, there is a global development community constantly looking at ways to enhance its security. Each upgrade makes the OS becomes more secure and robust.
-	• Stability and Performance - Linux provides very high stability i.e. it does not need a reboot after a short period of time. Your Linux system rarely slows down or freezes. You can work without any disturbance on your Linux systems. Linux provides remarkably high performance on various networks and workstations.
+* Free - First, and perhaps most importantly, Linux is free. You do not have to spend any amount to download and use it, unlike windows.
+* Open Source - Linux is open-source software. The code used to create Linux is free and available to the public to view edit, and-for users with the appropriate skills-to contribute to.
+* Secure - Once you have Linux installed on your system, there is no need to use an antivirus! Linux is a highly secure system. Moreover, there is a global development community constantly looking at ways to enhance its security. Each upgrade makes the OS becomes more secure and robust.
+* Stability and Performance - Linux provides very high stability i.e. it does not need a reboot after a short period of time. Your Linux system rarely slows down or freezes. You can work without any disturbance on your Linux systems. Linux provides remarkably high performance on various networks and workstations.
 
 Linux Vs Windows 
 
